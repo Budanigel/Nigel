@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nigelhuteng
+- 👋 Hi, I’m @Nigel
 - 👀 I’m interested in Hive, Pyhton, SQL, Linux
 - 🌱 I’m currently learning Hive, Linux
 - 💞️ I’m looking to collaborate on ...
